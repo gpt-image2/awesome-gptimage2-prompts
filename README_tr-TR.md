@@ -7,6 +7,8 @@
 > ℹ️ 数据文件 / Data file: [prompts.json](prompts.json)
 > 数据来源 / Source: `https://gptimage2api.net/prompts`
 > 原始数据文件 / Canonical raw file: `prompts.json`
+> Attribution / 署名: This repository includes adapted material from [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) by YouMind OpenLab, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> Copyright (c) 2026 YouMind OpenLab. Changes were made in this repository. See [ATTRIBUTION.md](ATTRIBUTION.md).
 
 ---
 
