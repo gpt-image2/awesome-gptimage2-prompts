@@ -325,6 +325,7 @@ Generates a realistic social media live stream interface overlaying a portrait, 
 - **Source:** [Twitter Post](https://x.com/sjbbxhz/status/2045684734714380687#reversed-0)
 - **Published:** April 19, 2026
 - **Languages:** en
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
 
 **[👉 Try it now →](https://gptimage2api.net/?id=14036)**
 
