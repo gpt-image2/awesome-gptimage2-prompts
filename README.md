@@ -326,6 +326,9 @@ Generates a realistic social media live stream interface overlaying a portrait, 
 - **Published:** April 19, 2026
 - **Languages:** en
 - [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 
 **[👉 Try it now →](https://gptimage2api.net/?id=14036)**
 
